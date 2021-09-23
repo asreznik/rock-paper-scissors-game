@@ -1,7 +1,7 @@
 # rock-paper-scissors-game
 A game of Rock-Paper-Scissors as our first coding project, involving the use of environment variables, boolean evaluation, use of random, and more.
 
-#Prerequsites
+##Prerequsites
 +Python 3.7+
 +Pip
 
